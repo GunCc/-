@@ -1,24 +1,10 @@
-# campus_staty
+<!-- 流程 -->
+1.安装element-ui
 
-## Project setup
-```
-npm install
-```
+  导入main.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+  制作页面
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2.安装axios 
+  
+  数据交互
